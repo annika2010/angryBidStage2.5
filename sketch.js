@@ -37,7 +37,7 @@ function setup(){
 
     bird = new Bird(100,100);
 
-}
+}// tO ADD PLAFORM
 
 function draw(){
     background(backgroundImg);
